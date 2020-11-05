@@ -1,0 +1,200 @@
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -libraries C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS.js -source-map -target v5 -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -Xfriend-modules=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\libs\minimal-KT-41032-JS-1.0-SNAPSHOT.klib -libraries C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-test-js\1.4.255-SNAPSHOT\kotlin-test-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS-test.js -source-map -target v5 -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -libraries C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS.js -source-map -target v5 -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -Xfriend-modules=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\libs\minimal-KT-41032-JS-1.0-SNAPSHOT.klib -libraries C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-test-js\1.4.255-SNAPSHOT\kotlin-test-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS-test.js -source-map -target v5 -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -libraries C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS.js -source-map -target v5 -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -Xfriend-modules=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\libs\minimal-KT-41032-JS-1.0-SNAPSHOT.klib -libraries C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-test-js\1.4.255-SNAPSHOT\kotlin-test-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS-test.js -source-map -target v5 -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -libraries C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS.js -source-map -target v5 -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -Xfriend-modules=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\libs\minimal-KT-41032-JS-1.0-SNAPSHOT.klib -libraries C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-test-js\1.4.255-SNAPSHOT\kotlin-test-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS-test.js -source-map -target v5 -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -libraries C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS.js -source-map -target v5 -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -Xfriend-modules=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\libs\minimal-KT-41032-JS-1.0-SNAPSHOT.klib -libraries C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-test-js\1.4.255-SNAPSHOT\kotlin-test-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS-test.js -source-map -target v5 -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+K2JSIR
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -libraries C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS.js -source-map -target v5 -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -Xfriend-modules=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\libs\minimal-KT-41032-JS-1.0-SNAPSHOT.klib -libraries C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-test-js\1.4.255-SNAPSHOT\kotlin-test-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS-test.js -source-map -target v5 -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+K2JSIR
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -libraries C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS.js -source-map -target v5 -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -Xfriend-modules=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\libs\minimal-KT-41032-JS-1.0-SNAPSHOT.klib -libraries C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-test-js\1.4.255-SNAPSHOT\kotlin-test-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS-test.js -source-map -target v5 -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -libraries C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS.js -source-map -target v5 -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main -Xir-dce -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+COMPILE II 
+COMPILE YNC -Xfriend-modules=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\libs\minimal-KT-41032-JS-1.0-SNAPSHOT.klib -libraries C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\main;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-js\1.4.255-SNAPSHOT\kotlin-stdlib-js-1.4.255-SNAPSHOT.jar;C:\Users\Shagen\.m2\repository\org\jetbrains\kotlin\kotlin-test-js\1.4.255-SNAPSHOT\kotlin-test-js-1.4.255-SNAPSHOT.jar -main call -meta-info -module-kind umd -no-stdlib -output C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\compileSync\kotlin\minimal-KT-41032-JS-test.js -source-map -target v5 -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test -Xgenerate-dts -Xir-produce-js -Xinclude=C:\Users\Shagen\job\KT-41032\BUGREPORT_KT_41032\build\classes\kotlin\test 
+CHECKED COMPILE
+CLI EXEC
+K2JS
+K2JSIR
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+K2JSIR
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+K2JSIR
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+CLI EXEC TOOL 
+CLI EXEC
+K2JS
+K2JSIR
