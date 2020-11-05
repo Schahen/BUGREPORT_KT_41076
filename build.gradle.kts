@@ -1,7 +1,8 @@
 plugins {
-    //kotlin("js") version "1.4.20-M2"
-    kotlin("js") version "1.4.255-SNAPSHOT"
+    kotlin("js") version "1.4.20-M2"
+    //kotlin("js") version "1.4.255-SNAPSHOT"
 }
+
 group = "me.shagen"
 version = "1.0-SNAPSHOT"
 
